@@ -2,10 +2,11 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://user-images.githubusercontent.com/41564330/220578014-7ed40979-15e3-491a-8c30-f764478752a5.png" width="140"  height="auto" />
+  
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Microverse</b></h3>
 
 </div>
 
