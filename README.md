@@ -76,7 +76,10 @@
 
 > Link to deployed project is:
 
-- [Live Demo Link]('not yet deployed')
+- [Live Demo Link] (https://luminous-dieffenbachia-b966f7.netlify.app/)
+
+> Presentation video is:
+- [Presentation Video Link] (https://www.loom.com/share/b8298de6a523498d814f0438269cecb2)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
