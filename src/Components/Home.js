@@ -48,6 +48,18 @@ function Home() {
           />
         </div>
       </nav>
+      <div
+        className="banner"
+        style={{
+          backgroundImage: 'url(\'https://images.unsplash.com/photo-1610398000003-8b8b2b2e1b1c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80\')',
+        }}
+      >
+        <div className="banner-content">
+          <h1 className="text-4xl font-bold text-white">Welcome to Country App</h1>
+          <p className="text-white">Find out more about your country</p>
+        </div>
+      </div>
+
       <div className="flex flex-col items-center justify-start p-4 pt-20">
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1 ">
           {filteredCountries.map((country) => (
