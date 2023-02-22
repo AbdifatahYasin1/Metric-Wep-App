@@ -14,7 +14,7 @@ function DetailsPage() {
   }
 
   return (
-    <section className="bg-gray-100">
+    <section className="bg-gray-100 home-page">
       <div className="flex items-center justify-between p-4">
         <FiChevronLeft
           className="text-2xl text-gray-500 cursor-pointer"

@@ -75,7 +75,7 @@
 
 > Link to deployed project is:
 
-- [Live Demo Link](https://country-stats-m.netlify.app/)
+- [Live Demo Link]('not yet deployed')
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
