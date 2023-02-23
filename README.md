@@ -79,7 +79,7 @@
 - [Live Demo Link] (https://luminous-dieffenbachia-b966f7.netlify.app/)
 
 > Presentation video is:
-- [Presentation Video Link] (https://www.loom.com/share/b8298de6a523498d814f0438269cecb2)
+- [Presentation Video Link] (https://www.loom.com/share/ce26705b1f05483d92849689274329fd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
