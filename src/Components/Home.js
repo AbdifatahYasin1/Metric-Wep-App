@@ -61,9 +61,9 @@ function Home() {
       </div>
 
       <div className="flex flex-col items-center justify-start p-4 pt-20">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-1 ">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:grid-cols-2 md:grid-cols-2 grid-two-cloumns">
           {filteredCountries.map((country) => (
-            <div key={country.alpha2Code} className="border rounded-lg ">
+            <div key={country.alpha2Code} className="border rounded-lg  ">
               <Link to={`/details/${country.alpha2Code}`}>
                 <img
                   src={country.flag}
@@ -81,5 +81,4 @@ function Home() {
     </section>
   );
 }
-
 export default Home;

@@ -30,6 +30,12 @@ img:hover {
 .nav {
   background-color: #dc5695;
 }
+.grid-two-cloumns{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  margin: 20px;
+}
 
 body {
   background-color: #c0286f;
